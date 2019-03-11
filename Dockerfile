@@ -1,4 +1,4 @@
-FROM alpin:latest
+FROM alpine:latest
 MAINTAINER Alexis Vuillaume <alexis.vuillaume@gmail.com>
 
 RUN apk update \
