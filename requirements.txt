@@ -1,4 +1,4 @@
-python-socketio<4,>=2.1.0
+python-socketio=2.1.0
 Flask
 Flask-Login
 Flask-Session
